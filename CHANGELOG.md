@@ -6,6 +6,10 @@ and this project adheres to
 
 ## [Unreleased]
 
+### Added
+- Initial Makefile project
+- Showcase of initial mrfp functions
+
 ## [0.0.0] - 2022-11-27
 
 ### Added 
@@ -14,4 +18,4 @@ and this project adheres to
     - Code of Conduct, Contributing
 
 [Unreleased]: (https://github.com/primis/mrfp-util/compare/v0.0.0...HEAD)
-[0.0.0]: (https://github.com/primis/mrfp-util/releasestag/v0.0.0)
+[0.0.0]: (https://github.com/primis/mrfp-util/releases/tag/v0.0.0)
